@@ -1,0 +1,11 @@
+:root {
+    --primary-color: #4CAF50;
+    --secondary-color: #FFC107;
+    --background-color: #F5F5F5;
+    --text-color: #333;
+    --border-color: #E0E0E0;
+    --font-family: 'Arial', sans-serif;
+    --font-size: 16px;
+    --border-radius: 4px;
+    --box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
